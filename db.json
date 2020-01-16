@@ -53,49 +53,5 @@
         ],
         "transactionBy": "AB09578",
         "transactionDate": "07-01-2020 05:09 AM"
-    },
-    {
-        "jobId": 90667,
-        "fromParts": [
-            "T19041"
-        ],
-        "toParts": [
-            "T19042"
-        ],
-        "transactionBy": "AB09578",
-        "transactionDate": "07-01-2020 05:09 AM"
-    },
-    {
-        "jobId": 1347,
-        "fromParts": [
-            "R343193"
-        ],
-        "toParts": [
-            "R568624"
-        ],
-        "transactionBy": "SYSTEM",
-        "transactionDate": "28-12-2019 11:00 AM"
-    },
-    {
-        "jobId": 90670,
-        "fromParts": [
-            "T19042"
-        ],
-        "toParts": [
-            "T19041"
-        ],
-        "transactionBy": "EAOT2P4",
-        "transactionDate": "07-01-2020 05:51 AM"
-    },
-    {
-        "jobId": 90670,
-        "fromParts": [
-            "T19041"
-        ],
-        "toParts": [
-            "T19042"
-        ],
-        "transactionBy": "AB09578",
-        "transactionDate": "07-01-2020 05:09 AM"
     }
 ]
