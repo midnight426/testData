@@ -1,8 +1,6 @@
 [
     {
-        "jobId": 90656,
-        "jobName": "asddasadsdas",
-        "substitutionType": "One To One",
+        "jobId": 90656,        
         "fromParts": [
             "T19041"
         ],
@@ -10,14 +8,10 @@
             "T19042"
         ],
         "transactionBy": "EAOT2P4",
-        "transactionDate": "07-01-2020 06:33 AM",
-        "swapId": 1563,
-        "swapType": "MANUAL"
+        "transactionDate": "07-01-2020 06:33 AM"
     },
     {
         "jobId": 863,
-        "jobName": "Primary Clutch, Remove and Replace",
-        "substitutionType": "One To One",
         "fromParts": [
             "AM144323"
         ],
@@ -25,14 +19,10 @@
             "AUC14428"
         ],
         "transactionBy": "SYSTEM",
-        "transactionDate": "04-01-2020 11:00 AM",
-        "swapId": 1541,
-        "swapType": "AUTOMATIC"
+        "transactionDate": "04-01-2020 11:00 AM"
     },
     {
         "jobId": 383,
-        "jobName": "Blade Frame Kit, Install",
-        "substitutionType": "One To One",
         "fromParts": [
             "BUC10650"
         ],
@@ -40,14 +30,10 @@
             "BUC11004"
         ],
         "transactionBy": "SYSTEM",
-        "transactionDate": "01-01-2020 11:00 AM",
-        "swapId": 1521,
-        "swapType": "AUTOMATIC"
+        "transactionDate": "01-01-2020 11:00 AM"
     },
     {
         "jobId": 1225,
-        "jobName": "Steering Cylinder Bushings and Pins, Remove and Replace",
-        "substitutionType": "One To One",
         "fromParts": [
             "R343193"
         ],
@@ -55,14 +41,10 @@
             "R568624"
         ],
         "transactionBy": "SYSTEM",
-        "transactionDate": "28-12-2019 11:00 AM",
-        "swapId": 1501,
-        "swapType": "AUTOMATIC"
+        "transactionDate": "28-12-2019 11:00 AM"
     },
     {
         "jobId": 90668,
-        "jobName": "test job",
-        "substitutionType": "One To One",
         "fromParts": [
             "T19041"
         ],
@@ -70,14 +52,10 @@
             "T19042"
         ],
         "transactionBy": "AB09578",
-        "transactionDate": "07-01-2020 05:09 AM",
-        "swapId": 1561,
-        "swapType": "MANUAL"
+        "transactionDate": "07-01-2020 05:09 AM"
     },
     {
         "jobId": 90667,
-        "jobName": "test job",
-        "substitutionType": "One To One",
         "fromParts": [
             "T19041"
         ],
@@ -85,14 +63,10 @@
             "T19042"
         ],
         "transactionBy": "AB09578",
-        "transactionDate": "07-01-2020 05:09 AM",
-        "swapId": 1561,
-        "swapType": "MANUAL"
+        "transactionDate": "07-01-2020 05:09 AM"
     },
     {
         "jobId": 1347,
-        "jobName": "Steering Cylinder Bushings and Pins, Remove and Replace",
-        "substitutionType": "One To One",
         "fromParts": [
             "R343193"
         ],
@@ -100,14 +74,10 @@
             "R568624"
         ],
         "transactionBy": "SYSTEM",
-        "transactionDate": "28-12-2019 11:00 AM",
-        "swapId": 1501,
-        "swapType": "AUTOMATIC"
+        "transactionDate": "28-12-2019 11:00 AM"
     },
     {
         "jobId": 90670,
-        "jobName": "test job",
-        "substitutionType": "One To One",
         "fromParts": [
             "T19042"
         ],
@@ -115,14 +85,10 @@
             "T19041"
         ],
         "transactionBy": "EAOT2P4",
-        "transactionDate": "07-01-2020 05:51 AM",
-        "swapId": 1562,
-        "swapType": "MANUAL"
+        "transactionDate": "07-01-2020 05:51 AM"
     },
     {
         "jobId": 90670,
-        "jobName": "test job",
-        "substitutionType": "One To One",
         "fromParts": [
             "T19041"
         ],
@@ -130,8 +96,6 @@
             "T19042"
         ],
         "transactionBy": "AB09578",
-        "transactionDate": "07-01-2020 05:09 AM",
-        "swapId": 1561,
-        "swapType": "MANUAL"
+        "transactionDate": "07-01-2020 05:09 AM"
     }
 ]
